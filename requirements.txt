@@ -1,0 +1,18 @@
+asgiref==3.8.1
+certifi==2024.8.30
+charset-normalizer==3.4.0
+Django==5.1.4
+django-jazzmin==3.0.1
+idna==3.10
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+messaging-api-wrapper @ git+https://github.com/igu1/MessagingAPI.git@c91f4e1a2b702d64bf5ab326e2bfc598eac5281e
+numpy==2.2.0
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2024.2
+requests==2.32.3
+six==1.17.0
+sqlparse==0.5.3
+tzdata==2024.2
+urllib3==2.2.3
